@@ -1,4 +1,6 @@
-# Space-Invader
+# Space-Invader 
+
+![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/Space-Invader.svg)
 
 ![Space-Invader](player.png)
 
